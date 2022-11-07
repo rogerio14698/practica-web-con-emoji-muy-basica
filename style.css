@@ -1,0 +1,78 @@
+
+body{
+    height: 1px;
+    background-image: url("2123.jpg");
+    
+}
+
+.h1-titulo{
+    background-image: url("2128.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-position-y: -1cm;
+    background-size: 1467px;
+    background-attachment: scroll;
+    border-radius: 10px;
+    text-align: center; 
+    color:   rgb(208, 208, 208);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+
+}
+
+table {
+    border: 2px solid rgb(255, 255, 255);
+    text-align: justify;
+    width: 100%;
+    border-radius: 10px;
+    
+}
+td, th {
+    width: 20%;
+    text-align: justify;
+    text-orientation: upright;
+    font-family: 'Permanent Marker', cursive;    
+}
+
+button{
+    position: center;
+    size: 100%;
+
+}
+
+img {
+    position: center;
+    
+}
+.p-titulo-inicio{
+    text-align: center;
+}
+
+.p-primertexto{
+    background-image: url(2128-texto-secundario.png);
+    column-count: 2;
+    column-gap: 40px;
+    font-family: 'Inconsolata', monospace;
+    color: whitesmoke;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.p-link-amazon{
+    background-image: url(2128-texto-secundario.png);
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    color: rgb(255, 255, 255);
+    size: 15px;
+    border-radius: 10px;
+    
+}
+
+.p-practica{
+    font-size: 20px;
+    text-align: justify;
+    padding: 50px 5px 20px 30px;
+    border-width: 5px;
+    border: 15px solid green;
+    margin: 20px;
+}
